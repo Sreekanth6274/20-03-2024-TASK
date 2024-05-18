@@ -1,0 +1,48 @@
+#sree{
+    color: rgb(250, 12, 20);
+    background-color: #f6fa0c;
+    text-align: center;
+}
+.image{
+    height: 125px;
+    width: 125x;
+}
+strong{
+    color: black;
+}
+.skills{
+     color: #fa0c14;
+     background-color: #f6fa0c;
+     text-align: center;
+}
+.stack{
+    color: rgb(237, 7, 145);
+}
+.html{
+    color: #030101;
+}
+.css{
+    color: rgb(14, 46, 207);
+}
+.java{
+    color: black;
+}
+.project{
+    color: #fa0c14;
+    background-color: #f6fa0c;
+    text-align: center;
+}
+.projects{
+    height: 300px;
+    width: 300px;
+}
+.file{
+    color: #000;
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.project2{
+    height: 300px;
+    width: 300px;
+}

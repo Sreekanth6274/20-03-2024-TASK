@@ -1,0 +1,25 @@
+.Place{
+    color: rgb(52, 235, 219);
+    background-color: #33033d;
+    text-align: center;
+}
+
+#Places{
+    color: #f5143d;
+}
+.tourist{
+    color:rgb(20, 245, 20);
+}
+ #Ladakh{
+    color: #1202ed;
+ }
+ strong{
+    color: #ff40f2;
+ }
+  
+ *{
+    font-family: "Sofia", sans-serif;
+ }
+ span{
+    color: red;
+ }
